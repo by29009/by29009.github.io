@@ -1,0 +1,64 @@
+.missing
+{
+    color: #9b310a;
+}
+body
+{
+    background:#000000;
+    margin:0 auto;
+}
+p, li
+{
+    color: #ffbfcf;
+    font-size: 140%;
+    line-height: 120%;
+}
+p, body
+{
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}/*
+*/
+li
+{
+    text-align: left;
+}
+h1, h2, h3, h4, h5, h6
+{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: #09ccfc;
+}
+h2
+{
+    font-size: 250%;
+}
+h4
+{
+    font-size: 190%;
+}
+.missing
+{
+    color: #ff333b;
+}
+
+#container
+{
+    /*width: 75%;*/
+    position: relative;
+    /*margin:0 auto;*/
+    margin-left: 10%;
+    margin-right: 3%;
+}
+#content
+{
+    width: 80%;
+    float: left;
+}
+#sidebar
+{
+    width: 20%;
+    float: right;
+    color: #FF0000;
+}
